@@ -59,7 +59,7 @@ _图标边缘未做留白处理，所以可能边缘渲染出方形的边，当�
 
 你可能学习过关于 SVG 的基础知识，并且能读懂 SVG 的结构。至少你知道：
 
-- SVG 元素： <svg>，<symbol> ，<g>， <path>
+- SVG 元素： `<svg>`，`<symbol>` ，`<g>`， `<path>`
 - SVG 属性： d， fill， stroke， stroke-width
 
 注意：从绘图工具中导出的 SVG 经常带着一些不必要的内容和标签等（其中 d 下面包含了清晰的路径数据），可以使用工具比如 [SVGOMG](https://jakearchibald.github.io/svgomg) ，然后比较一下处理前后哪些东西是移除或简化过的。
