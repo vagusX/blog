@@ -153,7 +153,7 @@ public/
   <svg><use xlink:href="/path/to/icons.svg#play"></use></svg> 
 ```
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/86953/1649599353983-d8a2d870-d2c9-43d8-8084-c4857edc13e2.png#clientId=ud06938b8-5a55-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=ud46ebffe&name=image.png&originHeight=152&originWidth=152&originalType=url&ratio=1&rotation=0&showTitle=false&size=3429&status=done&style=none&taskId=uf77acd8e-b357-487d-92c1-6d744b27b88&title=)
+![image.png](/assets/blog/svg-icons-guide/image2.5.png)
 
 ### 为图标提供替代文本
 

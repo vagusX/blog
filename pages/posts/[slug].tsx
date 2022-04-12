@@ -12,6 +12,8 @@ import { CMS_NAME } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 import PostType from '../../types/post'
 
+import 'highlight.js/styles/default.css'
+
 type Props = {
   post: PostType
   morePosts: PostType[]
