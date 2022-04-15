@@ -2,7 +2,7 @@
 title: "为什么我们需要 TS ？"
 excerpt: ""
 coverImage: "/assets/blog/why-we-need-ts/cover.jpg"
-date: "2016-04-17 21:27"
+date: "2022-03-21 12:10"
 ogImage:
   url: "/assets/blog/why-we-need-ts/cover.jpg"
 ---
