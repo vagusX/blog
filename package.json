@@ -28,7 +28,9 @@
     "rehype-highlight": "^5.0.2",
     "remark": "14.0.2",
     "remark-html": "15.0.1",
-    "typescript": "^4.2.4"
+    "typescript": "^4.2.4",
+    "typo.css": "^2.1.2",
+    "typora-hans-theme": "^1.0.0"
   },
   "devDependencies": {
     "@types/jest": "^26.0.23",
