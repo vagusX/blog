@@ -9,7 +9,7 @@ const Intro = () => {
         <a
           href="https://github.com/vagusX"
           target="_blank"
-          className="underline hover:text-blue-600 duration-200 transition-colors"
+          className="ml-5 underline hover:text-blue-600 duration-200 transition-colors"
         >
           vagusX
         </a>
