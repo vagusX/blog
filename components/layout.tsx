@@ -1,10 +1,13 @@
-import Footer from './footer'
-import Meta from './meta'
+import Footer from './footer';
+import GTag from './gtag';
+import Meta from './meta';
+
+import { GA_MEASUREMENT_ID } from '../lib/constants';
 
 type Props = {
-  preview?: boolean
-  children: React.ReactNode
-}
+  preview?: boolean;
+  children: React.ReactNode;
+};
 
 const Layout = ({ preview, children }: Props) => {
   return (
@@ -14,8 +17,9 @@ const Layout = ({ preview, children }: Props) => {
         <main>{children}</main>
       </div>
       <Footer />
+      <GTag id={GA_MEASUREMENT_ID} />
     </>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;
