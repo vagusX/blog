@@ -5,11 +5,11 @@ const Intro = () => {
         Blog
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        From 
+        From&nbsp;
         <a
           href="https://github.com/vagusX"
           target="_blank"
-          className="ml-5 underline hover:text-blue-600 duration-200 transition-colors"
+          className="underline hover:text-blue-600 duration-200 transition-colors"
         >
           vagusX
         </a>
