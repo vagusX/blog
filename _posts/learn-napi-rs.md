@@ -358,7 +358,7 @@ pub fn plus_100(input: u32, input1: u32) -> u32 {
 
 > Node 和 Rust 互相调用建立在 C ABI 基础上的 FFI 调用
 
-Node.js 中调用 plus100 -> 调用到 FFI 函数 __napi__plus_100 -> 提取参数给 Rust fn plus_100
+Node.js 中调用 plus100 -> 调用到 FFI 函数 `__napi__plus_100` -> 提取参数给 Rust fn plus_100
 
 ![image.png](/assets/blog/learn-napi-rs/node-call-rust.png)
 
